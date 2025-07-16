@@ -1,2 +1,5 @@
-# trenchbroom-raylib-c
-Example project of loading .MAP files and rendering them as geometry in C &amp; Raylib.
+# raylib-trenchbroom-c
+Adding support for loading trenchbroom maps with Raylib in C
+
+.map running in game
+![alt text](textures/image.png)
